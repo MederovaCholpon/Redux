@@ -1,0 +1,25 @@
+.App {
+	height: 80px;
+	align-items: center;
+	display: flex;
+	justify-content: space-around;
+	font-size: 40px;
+	background-color: beige;
+}
+.menu {
+	width: 800px;
+	height: 500px;
+	margin: 0 auto;
+	margin-top: 30px;
+	text-align: center;
+}
+.button {
+  font-size: 30px;
+  font-weight: 700;
+  color: lime;
+	margin: 50px;
+	border-radius: 8px;
+	cursor: pointer;
+	border-style: outset;
+}
+
